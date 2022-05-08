@@ -1,0 +1,3 @@
+[submodule "cake_app"]
+	path = cake_app
+	url = https://github.com/cnizzardini/cakephp-swagger-bake-demo.git
